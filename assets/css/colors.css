@@ -1,0 +1,22 @@
+/* ROOT COLORS */
+
+/* DARK - ORANGE */
+/* :root {
+    --backgroundMain: #14121B;
+    --backgroundSecond: #181621;
+    --colorMain: #289d0e;
+    --circleColor: #FFFFFF26;
+    --colorText: #949494;
+    --colorDefault: #fff;
+} */
+
+/* LIGHT - PURPLE */
+:root 
+{
+    --backgroundMain: #14121B;
+    --backgroundSecond: #0D0C14;
+    --colorMain: #765de7;
+    --circleColor: rgba(29, 34, 38, 0.74);
+    --colorText: #dfdfdf;
+    --colorDefault: #a3a3a3;
+}
